@@ -1,4 +1,5 @@
 Git is a distributed version control software
 Git is a free distributed GPL
 Git has a mutable index called stage
-Git chacks changes
+Git chacks changes of files
+
